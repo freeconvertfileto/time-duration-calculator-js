@@ -2,7 +2,7 @@
 
 Add or subtract two time durations (hours, minutes, seconds) with overflow/borrow handling and display as formatted H:MM:SS plus total seconds, minutes, and hours, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/time-duration-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/time-duration-calculator-online
 
 ## How It Works
 
